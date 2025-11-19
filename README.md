@@ -1,8 +1,6 @@
 # Meus Estudos de Python 🐍
 
-Bem-vindo(a) ao meu repositório de estudos em Python!
-
-Este espaço serve como um diário público da minha jornada de aprendizado, onde registro e publico os exercícios e projetos desenvolvidos. O objetivo é solidificar meu conhecimento e construir um portfólio com a evolução do meu raciocínio lógico e minhas habilidades com a linguagem.
+Projetos práticos de desenvolvimento Python, focados em manipulação de estruturas de dados, lógica de programação e automação básica.
 
 ---
 
